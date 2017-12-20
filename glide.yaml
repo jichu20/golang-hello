@@ -1,0 +1,3 @@
+package: golang-hello
+import:
+- package: github.com/gorilla/mux
